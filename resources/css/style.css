@@ -1,0 +1,19 @@
+body {
+    height: 100%;
+    margin: 0 auto;
+    background-color: black;
+    font-family: Verdana;
+    text-align: center;
+    
+}
+
+header {
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+
+.plink {
+    color: aquamarine;
+    font-size: 16px;
+    }
