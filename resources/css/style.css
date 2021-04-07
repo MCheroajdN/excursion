@@ -1,6 +1,4 @@
 body {
-    height: 100%;
-    margin: 0 auto;
     background-color: black;
     font-family: Verdana;
     text-align: center;
@@ -11,9 +9,10 @@ header {
     font-weight: normal;
     font-size: 50px;
     color: white;
+    text-align: center;
 }
 
-.plink {
+.download-link {
     color: aquamarine;
     font-size: 16px;
     }
