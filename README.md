@@ -15,6 +15,7 @@ This project is created with:
 * CSS
 * Github
 * Command Line
+* Visual Studio Code Editor
 
 ## Sources
 With the resources available and studies from:
