@@ -34,8 +34,9 @@ I intend in the future to improve this project, by adding:
 
 ## Status
 Project is completed as required.
+[published website:] (https://mcheroajdn.github.io/excursion/)
 
 ## Author/Contact
 * M. Christopher - Initial work
-* GitHub: https://mcheroajdn.github.io/excursion/
+
 
