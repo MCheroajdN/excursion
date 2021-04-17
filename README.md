@@ -15,7 +15,6 @@ This project is created with:
 * CSS
 * Github
 * Command Line
-* Visual Studio Code Editor
 
 ## Sources
 With the resources available and studies from:
@@ -34,9 +33,7 @@ I intend in the future to improve this project, by adding:
 
 ## Status
 Project is completed as required.
-[published website:] (https://mcheroajdn.github.io/excursion/)
 
 ## Author/Contact
 * M. Christopher - Initial work
-
-
+* GitHub: https://mcheroajdn.github.io/excursion/
